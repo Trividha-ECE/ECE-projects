@@ -42,10 +42,10 @@ Designed an LED blinking circuit using NE555 timer IC in astable mode.
 ![LED Schematic](Project-2-LED-Blinking-NE555/Schematic.png)
 
 ### 🔷 PCB Layout (2D)  
-![LED PCB](Project-2-LED-Blinking-NE555/PCB_Layout.png)
+![LED PCB](Project-2-LED-Blinking-NE555/PCB-2D.png)
 
 ### 🔷 PCB 3D View  
-![LED PCB 3D](Project-2-LED-Blinking-NE555/PCB_3D.png)
+![LED PCB 3D](Project-2-LED-Blinking-NE555/PCB-3D.png)
 
 ### Features:
 
