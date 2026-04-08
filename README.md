@@ -47,6 +47,15 @@ KiCad / EasyEDA
 * Capacitor
 * LED
 
+### 🔷 Circuit Schematic  
+![LED Schematic](Project-2-LED-Blinking-NE555/YOUR_FILE_NAME.png)
+
+### 🔷 PCB Layout (2D)  
+![LED PCB](Project-2-LED-Blinking-NE555/YOUR_FILE_NAME.png)
+
+### 🔷 PCB 3D View  
+![LED PCB 3D](Project-2-LED-Blinking-NE555/YOUR_FILE_NAME.png)
+
 **Features:**
 
 * Adjustable blinking speed
