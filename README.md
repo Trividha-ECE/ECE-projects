@@ -38,6 +38,15 @@ EasyEDA
 
 Designed an LED blinking circuit using NE555 timer IC in astable mode.
 
+### 🔷 Circuit Schematic  
+![LED Schematic](Project-2-LED-Blinking-NE555/Schematic.png)
+
+### 🔷 PCB Layout (2D)  
+![LED PCB](Project-2-LED-Blinking-NE555/PCB_Layout.png)
+
+### 🔷 PCB 3D View  
+![LED PCB 3D](Project-2-LED-Blinking-NE555/PCB_3D.png)
+
 ### Features:
 
 * Adjustable blinking speed
@@ -77,7 +86,6 @@ Designed a DC-DC boost converter PCB to step up 5V input to ~10V output using MT
 ### Images:
 
 ![PCB Layout](PCB_Layout.png)
-![PCB 3D View](PCB_3D.png)
 
 ---
 
