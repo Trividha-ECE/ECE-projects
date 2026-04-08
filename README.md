@@ -29,3 +29,64 @@ EasyEDA
 - LM386-AMP-MONO Circuit diagram .pdf
 - SCH_LM386-AMP-MONO_2026-03-15.json
 - Gerber_LM386-AMP-MONO_PCB_LM386-AMP-MONO_2_2026-03-10.zip
+
+---
+
+## Project 2: LED Blinking using NE555
+
+**Description:**
+Designed an LED blinking circuit using NE555 timer IC in astable mode.
+
+**Software Used:**
+KiCad / EasyEDA
+
+**Components Used:**
+
+* NE555 Timer IC
+* Resistors
+* Capacitor
+* LED
+
+**Features:**
+
+* Adjustable blinking speed
+* Simple and beginner-friendly design
+
+---
+
+## Project 3: 5V to 10V Boost Converter using MT3608
+
+**Description:**
+Designed a DC-DC boost converter PCB to step up 5V input to approximately 10V output using MT3608 IC.
+
+**Software Used:**
+KiCad
+
+**Components Used:**
+
+* MT3608 IC
+* Inductor
+* Diode
+* Capacitors
+* Resistors
+
+**Features:**
+
+* Compact PCB design
+* Proper switching layout
+* Stable output using feedback resistors
+
+**Output:**
+
+* Input: 5V
+* Output: ~10V
+
+## PCB Layout
+
+![PCB Layout](PCB_Layout.png)
+
+## PCB 3D View
+
+![PCB 3D](PCB_3D.png)
+
+---
