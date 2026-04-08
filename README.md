@@ -34,29 +34,11 @@ EasyEDA
 
 ## Project 2: LED Blinking using NE555
 
-**Description:**
+### Description:
+
 Designed an LED blinking circuit using NE555 timer IC in astable mode.
 
-**Software Used:**
-KiCad / EasyEDA
-
-**Components Used:**
-
-* NE555 Timer IC
-* Resistors
-* Capacitor
-* LED
-
-### 🔷 Circuit Schematic  
-![LED Schematic](Project-2-LED-Blinking-NE555/YOUR_FILE_NAME.png)
-
-### 🔷 PCB Layout (2D)  
-![LED PCB](Project-2-LED-Blinking-NE555/YOUR_FILE_NAME.png)
-
-### 🔷 PCB 3D View  
-![LED PCB 3D](Project-2-LED-Blinking-NE555/YOUR_FILE_NAME.png)
-
-**Features:**
+### Features:
 
 * Adjustable blinking speed
 * Simple and beginner-friendly design
@@ -65,13 +47,15 @@ KiCad / EasyEDA
 
 ## Project 3: 5V to 10V Boost Converter using MT3608
 
-**Description:**
-Designed a DC-DC boost converter PCB to step up 5V input to approximately 10V output using MT3608 IC.
+### Description:
 
-**Software Used:**
-KiCad
+Designed a DC-DC boost converter PCB to step up 5V input to ~10V output using MT3608 IC.
 
-**Components Used:**
+### Software Used:
+
+* KiCad
+
+### Components Used:
 
 * MT3608 IC
 * Inductor
@@ -79,20 +63,23 @@ KiCad
 * Capacitors
 * Resistors
 
-**Features:**
+### Features:
 
 * Compact PCB design
 * Proper switching layout
 * Stable output using feedback resistors
 
-**Output:**
+### Output:
 
 * Input: 5V
 * Output: ~10V
 
-## PCB Layout
+### Images:
 
 ![PCB Layout](PCB_Layout.png)
+![PCB 3D View](PCB_3D.png)
+
+---
 
 ## PCB 3D View
 
